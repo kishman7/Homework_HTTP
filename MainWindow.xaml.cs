@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -23,15 +24,17 @@ namespace Homework_HTTP
     /// </summary>
     public partial class MainWindow : Window
     {
+        //public ObservableCollection<Hero> Heros { set; get; } = new ObservableCollection<Hero>();
         public MainWindow()
         {
             InitializeComponent();
-
+           // DataContext = this;
             var herous = UsingHttpWebRequest();
             foreach (var item in herous)
             {
-                lbHero.Items.Add(item);
+                lbHero.Items.Add(item);// Heros.Add(item);
             }
+
         }
 
         private static List<Hero> UsingHttpWebRequest()
@@ -46,6 +49,7 @@ namespace Homework_HTTP
 
             List<Hero> items = JsonConvert.DeserializeObject<List<Hero>>(json);//десереалізуємо у список Hero
             return items;
+
         }
     }
 }

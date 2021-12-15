@@ -10,7 +10,7 @@ namespace Homework_HTTP
     public class Hero
     {
         public string name { get; set; }
-        public string alternate_names { get; set; }
+        //public string[] alternate_names { get; set; }
         public string species { get; set; }
         public string gender { get; set; }
         public string house { get; set; }

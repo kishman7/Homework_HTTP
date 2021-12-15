@@ -3,7 +3,6 @@ F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\b
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\bin\Debug\Homework_HTTP.pdb
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\bin\Debug\Newtonsoft.Json.dll
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\bin\Debug\Newtonsoft.Json.xml
-F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP.csprojAssemblyReference.cache
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\MainWindow.g.cs
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\App.g.cs
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP_MarkupCompile.cache
@@ -16,3 +15,4 @@ F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\o
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP.csproj.CopyComplete
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP.exe
 F:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP.pdb
+f:\YURKO\SHAG\Project C#\31_01122021_Lab_Network Prog (HTTP_FTP)\Homework_HTTP\obj\Debug\Homework_HTTP.csprojAssemblyReference.cache
